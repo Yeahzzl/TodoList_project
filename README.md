@@ -1,6 +1,6 @@
-# <To Do List_project>
+# Todo List_project
 
-## React입문 개인과제
+### React입문 개인과제
 
 ### 기간 : 23.11.03 - 11.06
 
